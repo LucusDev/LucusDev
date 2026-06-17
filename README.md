@@ -449,7 +449,7 @@ The first version of Animeo that successfully implemented anime scraping and pla
 
 ## 📬 Contact
 
-- 💼 **LinkedIn:** _[https://www.linkedin.com/in/htet-aung-shine-882a1a216/](https://www.linkedin.com/in/htet-aung-shine-882a1a216/)_
+- 💼 **LinkedIn:** _[www.linkedin.com/in/lucasknk/](www.linkedin.com/in/lucasknk/)_
 - 📧 **Email:** _[htetaungshine20028@gmail.com](mailto:htetaungshine20028@gmail.com)_
 - 🌐 **Portfolio:** _[https://bylucas.tech/](https://bylucas.tech/)_
 
